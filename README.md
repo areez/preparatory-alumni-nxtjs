@@ -107,4 +107,4 @@ This project is proprietary to the **Preparatory Alumni Association**. All right
 
 ---
 
-Designed & Developed for **PAA**.
+Designed & Developed for **Areez Afsar Khan**.
